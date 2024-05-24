@@ -1,1 +1,1 @@
-# stumoy-projects
+# stumpy-projects
